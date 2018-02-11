@@ -40,3 +40,13 @@ Launches the test runner in the interactive watch mode.<br>
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
+
+## Demo
+### Landing Page
+![Landing](https://github.com/sanket0024/MapApp/blob/master/DemoPics/Landing.png)
+
+### Signup Page
+![Signup](https://github.com/sanket0024/MapApp/blob/master/DemoPics/Signup.png)
+
+### Locations Search
+![Locations](https://github.com/sanket0024/MapApp/blob/master/DemoPics/Locations.png)
